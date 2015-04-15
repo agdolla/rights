@@ -1,0 +1,2 @@
+# rights
+manager user rights
